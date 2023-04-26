@@ -27,23 +27,7 @@ while True:
     # Wait for a key press and check if it's the 'q' key to exit
     if cv2.waitKey(1) == ord('q'):
         break
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 49f9f693cca7379c7563a21b54699fb3095b2f33
-
-# Release the camera and close the window
-cap.release()
-
-cv2.destroyAllWindows()
-main
-<<<<<<< HEAD
->>>>>>> 49f9f693cca7379c7563a21b54699fb3095b2f33
 
 # Release the camera and close the window
 cap.release()
 cv2.destroyAllWindows()
-=======
-
->>>>>>> 49f9f693cca7379c7563a21b54699fb3095b2f33
