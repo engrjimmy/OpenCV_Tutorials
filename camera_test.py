@@ -1,5 +1,3 @@
-#import opencv
-
 import cv2
 
 # Open the default camera (usually the built-in webcam)
